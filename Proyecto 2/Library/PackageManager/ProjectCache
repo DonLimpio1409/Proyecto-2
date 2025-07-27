@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638890377826978718
-    m_Hash: 2922184236
+      ticks: 638890379724751946
+    m_Hash: 4141410002
   m_LockFileStatus:
     m_FilePath: C:/Users/penov/Documents/GitHub/Proyecto-2/Proyecto 2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638890377827013863
-    m_Hash: 143050687
+      ticks: 638890379724751946
+    m_Hash: 3311465102
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
