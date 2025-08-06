@@ -101,6 +101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidad: 10
   explosion: {fileID: 8221602365755489639, guid: 32e606eb4fee1ec48b75537183634f93, type: 3}
+  tiempo: 0
 --- !u!65 &-6771144385137513416
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -166,9 +167,9 @@ CapsuleCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
-  m_Radius: 0.049973477
+  m_Radius: 0.1
   m_Height: 0.09994695
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: -0.0042337514}
