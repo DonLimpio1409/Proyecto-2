@@ -27,7 +27,7 @@ public class Coete : MonoBehaviour
     {
         //Destruccion y generacion de particulas
         Vector3 puntoImpacto = other.contacts[0].point;
-        vector3 normal = puntoImpacto.point;
+        Vector3 normal = other.contacts[0].normal; 
         Quaternion posicionExplosion = Quaternion.LookRotation(-normal);
 
         Instantiate(explosion, puntoImpacto, posicionExplosion);
